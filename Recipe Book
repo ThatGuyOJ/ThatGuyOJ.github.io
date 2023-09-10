@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        h2 {
+            color: rgb(0, 222, 207);
+        }
+        p {
+            color: rgb(235, 23, 23);
+        }
+        th {
+            color: rgb(0, 70, 191);
+        }
+        body {
+            background-color: rgb(230, 201, 122);
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1>OJ's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        <!-- Recipes List -->
+        <ol>
+            <li><a href="#mac-cheese"><strong>Mac n Cheese</strong></a></li>
+            <li><a href="#egg"><strong>Scrambled Eggs</strong></a></li>
+            <li><a href="#grilled"><strong>Grilled Cheese</strong></a></li>
+        </ol>
+        
+        <h2 id = "mac-cheese">Recipe #1: <em>Mac n Cheese</em></h2>
+        
+        
+        <ul>
+            <li>Time: 30 minutes</li>
+            <li>Serves: 4</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Macaroni</td>
+                <td> 1 cup</td>
+            </tr>
+            <tr>
+                <td>Butter</td>
+                <td> 1 tbsp</td>
+            </tr>
+            <tr>
+                <td>Flour</td>
+                <td> 1 cup</td>
+            </tr>
+            <tr>
+                <td>Salt</td>
+                <td> 2-3 tsp</td>
+            </tr>
+            <tr>
+                <td>Black Pepper</td>
+                <td> 1 tsp</td>
+            </tr>
+            <tr>
+                <td>Milk</td>
+                <td> 2/3 cups</td>
+            </tr>
+            <tr>
+                <td>Shredded Cheese</td>
+                <td> 1/2 cup</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Preheat oven to 375<br>
+        <strong>Step 2:</strong> Cook Macaroni<br>
+        <strong>Step 3:</strong> Make Roux<br>
+        <strong>Step 4:</strong> Add Milk an Cheese<br>
+        <strong>Step 5:</strong> Pour into baking dish
+        </p>
+        
+    <p><em>Source: <a href="https://tastesbetterfromscratch.com/homemade-mac-and-cheese/">Mac and Cheese Recipe</a></em></p>
+    
+    <h2 id ="egg">Recipe #2: <em>Scrambled Eggs</em></h2>
+        
+        
+        <ul>
+            <li>Time: 10-15 minutes</li>
+            <li>Serves: 2</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Eggs</td>
+                <td> 4</td>
+            </tr>
+            <tr>
+                <td>Salt</td>
+                <td> 1 1/2 tsp</td>
+            </tr>
+            <tr>
+                <td>Pepper</td>
+                <td> 1 tsp</td>
+            </tr>
+            <tr>
+                <td>Milk</td>
+                <td> 3 tbsp tsp</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Preheat stove to medium heat<br>
+        <strong>Step 2:</strong> Place pan on stovetop<br>
+        <strong>Step 3:</strong> add 3 tbsp of olive oil<br>
+        <strong>Step 4:</strong> add eggs, milk, salt and pepper into 
+        a bowl<br>
+        <strong>Step 5:</strong> Stir ingredients in bowl together<br>
+        <strong>Step 6:</strong> When pan is heated, pour egg contents into pan and flip when egg is formed<br>
+        <strong>Step 7:</strong> Break egg into smaller pieces and enjoy!
+        </p>
+        
+    <p><em>Source: <a href="https://www.eggs.ca/recipes/simple-scrambled-eggs">Scrambled Eggs Recipe</a></em></p>
+    
+    <h2 id ="grilled">Recipe #3: <em>Grilled Cheese</em></h2>
+        
+        
+        <ul>
+            <li>Time: approx 20 minutes</li>
+            <li>Serves: 1-2</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Bread</td>
+                <td> 4 slices</td>
+            </tr>
+            <tr>
+                <td>Cheese</td>
+                <td> 2 slices</td>
+            </tr>
+            <tr>
+                <td>Bacon</td>
+                <td> 2 slices</td>
+            </tr>
+            <tr>
+                <td>Lunch Meat</td>
+                <td> 3 slices</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><em>Defrost all ingredients before starting</em><br>
+        <strong>Step 1:</strong> Preheat stove to medium heat<br>
+        <strong>Step 2:</strong> Place pan on stovetop<br>
+        <strong>Step 3:</strong> butter all slices of bread on one side<br>
+        <strong>Step 4:</strong> cook bacon in the pan on both sides to make sure it is not raw<br>
+        <strong>Step 5:</strong> insert cheese, bacon, and meat between two slices of bread. <strong>BUTTERED SIDES FACING OUTWARDS</strong><br>
+        <strong>Step 6:</strong> Place sandwiches on pan and flip when brownish colour. Repeat for other side<br>
+        </p>
+        <p><em>Source: <a href="https://www.delish.com/cooking/recipe-ideas/a19610233/how-to-make-best-grilled-cheese/">Other Grilled Cheese Recipe</a></em></p>
+    </body>
+</html>
