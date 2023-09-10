@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <style>
+        body {
+            background-color: rgb(255, 150, 255);
+        }
+        h1 {
+        color: rgb(255, 0, 0);
+        }
+        #tourist {
+            color: rgb(79, 3, 255);
+            background-color: rgb(0, 0, 0);
+        }
+        #sports {
+            color: rgb(13, 231, 255);
+            background-color: rgb(0, 0, 0);
+        }
+        #sights {
+            color: rgb(6, 179, 32);
+            background-color: rgb(0, 0, 0);
+        }
+        #website {
+            color: rgb(255, 0, 0);
+            background-color: rgb(87, 21, 115);
+        }
+        .attractions {
+            color: rgb(167, 36, 255);
+            background-color: rgb(3, 2, 3);
+        }
+        .balls {
+            color: rgb(42, 90, 212);
+            background-color: rgb(0, 0, 0);
+        }
+        }
+    </style>
+    <body>
+        
+        <h1>Welcome to Toronto!</h1>
+        <h2 id="tourist">Popular Tourist Attractions:</h2>
+        
+        <li class="attractions"><strong>CN Tower!</strong></li>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Toronto_-_ON_-_Toronto_Harbourfront7.jpg/800px-Toronto_-_ON_-_Toronto_Harbourfront7.jpg" width = "100" height = "120">
+        
+        <li class="attractions"><strong>The Royal Ontario Museum!</strong         ></li>
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Royal_Ontario_Museum_edit3.jpg/1920px-Royal_Ontario_Museum_edit3.jpg" width = "171">
+        
+        <li class="attractions"><strong> The Toronto Zoo!</strong></li>
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Caged_%284079886616%29.jpg/1920px-Caged_%284079886616%29.jpg" width = "149">
+        
+        <h3 id="sights">There are <em>many</em> sights to see in the city of Toronto!</h3>
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Toronto_Skyline_2017.jpg/1920px-Toronto_Skyline_2017.jpg" width = "321">
+        <p><strong>Toronto</strong> is our Canadian metropolis covered            with <em>tall</em> buildings, friendly social gatherings, and <em         >gorgeous</em> skylines that take your breath away!<br> Take the          time to look around our <strong>beautiful city</strong>, eat the          <strong>delicious food</strong>, and lose yourself in the <em             >magical</em> city at night! </p>
+        
+        <h2 id="sports"> Sports!</h2>
+        
+        <li class = "balls">Toronto Maple Leafs! (hockey)</li>
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Toronto_Maple_Leafs_2016_logo.svg/800px-Toronto_Maple_Leafs_2016_logo.svg.png" width = "100">
+        
+        <li class = "balls">Toronto Raptors! (basketball)</li>
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/1024px-Toronto_Raptors_logo.svg.png" width = "100">
+        
+        <li class = "balls">Toronto Blue Jays! (baseball)</li>
+        <img src = "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Toronto_Blue_Jays_cap.svg/119px-Toronto_Blue_Jays_cap.svg.png">
+        
+        <p> To book flights to Toronto, go to <strong id="website">www.torontoflights.ca</strong><br>
+        to experience the time of your life!</p>
+    </body>
+</html>
